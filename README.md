@@ -1,7 +1,7 @@
 [Projeto Página Web Alura](https://alisson-vml.github.io/alura_plus/)
 
 <p align = "center">
-  <img src="img/readme.png.png" alt="Demonstração do projeto" width="100%"/>
+  <img src="img/readme.png" alt="Demonstração do projeto" width="100%"/>
 </p>
 
 ## 💻 Projeto
