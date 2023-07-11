@@ -6,6 +6,18 @@
   --fonte-principal: 'Inter';
   --botao-azul-hover: #3c92fa;
 }
+::-webkit-scrollbar{
+  width: 10px;
+}
+::-webkit-scrollbar-track{
+  background: var(--cor-de-fundo);
+}
+::-webkit-scrollbar-thumb{
+  background: var(--botao-azul);
+}
+::-webkit-scrollbar-thumb:hover{
+  background: var(--botao-azul-hover);
+}
 
 body{
   background-color: var(--cor-de-fundo);
